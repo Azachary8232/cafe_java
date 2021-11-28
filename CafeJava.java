@@ -8,12 +8,15 @@ public class CafeJava{
 
         // Menu Variable
         double mochaPrice = 3.5;
+        double dripCoffeePrice = 4.25;
+        double lattePrice = 3.25;
+        double cappuccinoPrice = 4;
 
         // Customer name Variables
         String customer1 = "Cindhuri";
 
         // Order Completions
         boolean isReadyOrder1  = false;
-        
+
     }
 }
