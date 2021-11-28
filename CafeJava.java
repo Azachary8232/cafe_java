@@ -20,9 +20,9 @@ public class CafeJava{
 
         // Order Completions
         boolean isReadyOrder1  = false;
-        boolean isReadyOrder2  = false;
+        boolean isReadyOrder2  = true;
         boolean isReadyOrder3  = false;
-        boolean isReadyOrder4  = false;
+        boolean isReadyOrder4  = true;
 
     }
 }
