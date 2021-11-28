@@ -24,7 +24,7 @@ public class CafeJava{
         boolean isReadyOrder3  = false;
         boolean isReadyOrder4  = true;
 
-        System.out.println(customer1 + isReadyOrder1);
+        System.out.println(customer1 + pendingMessage);
         if ( isReadyOrder4 ) {
             System.out.println(customer4 + readyMessage + displayTotalMessage + cappuccinoPrice);
         }
@@ -38,7 +38,7 @@ public class CafeJava{
         else { 
             System.out.println(customer2 + pendingMessage);
         }
-        System.out.println(displayTotalMessage + (dripCoffeePrice - lattePrice))
+        System.out.println(displayTotalMessage + (dripCoffeePrice - lattePrice));
 
     }
 }
