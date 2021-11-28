@@ -14,6 +14,9 @@ public class CafeJava{
 
         // Customer name Variables
         String customer1 = "Cindhuri";
+        String customer2 = "Sam";
+        String customer3 = "Jimmy";
+        String customer4 = "Noah";
 
         // Order Completions
         boolean isReadyOrder1  = false;
